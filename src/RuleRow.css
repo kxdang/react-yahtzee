@@ -1,5 +1,6 @@
 .RuleRow {
   transition: all 0.2s;
+  display: flex;
 }
 .RuleRow-active:hover {
   cursor: pointer;
