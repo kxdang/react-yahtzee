@@ -16,7 +16,7 @@ Starter file had incomplete game, I learned how to work with another users' code
   <a href="https://kien-react-deckofcards.netlify.com/"><img src="./project.png"></a>
 </p>
 
-## What I learned:
+## 👨‍🎓What I learned:
 
 - Worked with a pre-existing codebase developed by someone else
 - Walked through step by step logic to slowly understand what is being accomplished
