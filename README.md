@@ -8,7 +8,7 @@ Starter file had incomplete game, I learned how to work with another users' code
 - Score description addition
 - I added flexbox to the table to fix app and made it mobile friendly!
 
-<p align="center" style="font-size: 30px">
+<p align="center" style="font-size: 30px; font-weight: bold">
   <a href="https://kien-react-deckofcards.netlify.com/">Live Demo</a>
 </p>
 
