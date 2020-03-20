@@ -9,11 +9,11 @@ Starter file had incomplete game, I learned how to work with another users' code
 - I added flexbox to the table to fix app and made it mobile friendly!
 
 <p align="center" >
-  <a href="https://kien-react-deckofcards.netlify.com/">Live Demo</a>
+  <a href="https://kien-react-yahtzee.netlify.com/">Live Demo</a>
 </p>
 
 <p align="center">
-  <a href="https://kien-react-deckofcards.netlify.com/"><img src="./project.png"></a>
+  <a href="https://kien-react-yahtzee.netlify.com/"><img src="./project.png"></a>
 </p>
 
 ## 👨‍🎓What I learned:
